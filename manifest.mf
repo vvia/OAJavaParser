@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Permissions: all-permissions
+Codebase: *
+Application-Name: OAJavaParser
+Implementation-Title: com.viaoa.javaparser 
+Implementation-Version: 3.7.0
+Implementation-Vendor: ViaOA, Inc.
